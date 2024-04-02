@@ -1,6 +1,6 @@
-## Name: POZHILAN V D
-## reg no: 212223240118
-# Correlation and regression for data analysis
+                                                                 Name: POZHILAN V D
+                                                                 Reg no: 212223240118
+# EX-3:Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
