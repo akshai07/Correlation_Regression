@@ -1,5 +1,5 @@
-                                                            Name: Akshaikhanna.D
-                                                            Reg no: 212223040206
+                                                         Name: Akshaikhanna.D
+                                                         Reg no: 212223040206
 # EX-3:Correlation and regression for data analysis
 # Aim : 
 
